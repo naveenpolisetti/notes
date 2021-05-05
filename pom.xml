@@ -18,4 +18,15 @@
   <build>
     <finalName>notes</finalName>
   </build>
+  <distributionManagement>
+		 <snapshotRepository>
+		    <id>nexus</id>
+		    <url>http://172.0.1.123:8081/repository/notes-snapshot/</url>
+		 </snapshotRepository>
+		
+		<repository>
+		    <id>nexus</id>
+		    <url>http://172.0.1.123:8081/repository/notes-relese/</url>
+		</repository>
+  	</distributionManagement>
 </project>
