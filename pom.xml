@@ -21,7 +21,6 @@
   <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-<<<<<<< HEAD
 		    <url>http://172.0.1.18:8081/repository/maven-snapshots/</url>
 =======
 		    <url>http://15.206.116.124:8081/repository/maven-snapshots/</url>
