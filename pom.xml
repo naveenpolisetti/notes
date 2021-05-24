@@ -21,12 +21,20 @@
   <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
+<<<<<<< HEAD
 		    <url>http://172.0.1.18:8081/repository/maven-snapshots/</url>
+=======
+		    <url>http://15.206.116.124:8081/repository/maven-snapshots/</url>
+>>>>>>> ee31baf849a2642b6e7985493ad3a08dcae46800
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
+<<<<<<< HEAD
 		    <url>http://172.0.1.18:8081/repository/notes-relese/</url>
+=======
+		    <url>http://15.206.116.124:8081/repository/notes-relese/</url>
+>>>>>>> ee31baf849a2642b6e7985493ad3a08dcae46800
 		</repository>
   	</distributionManagement>
 </project>
