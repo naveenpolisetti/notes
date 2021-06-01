@@ -21,12 +21,12 @@
   <distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://172.0.1.18:8081/repository/notes-snapshot/</url>
-		 </snapshotRepository>
-		
+		    <url>http://15.206.116.124:8081/repository/notes-snapshot/</url>
+		 </snapshotRepository>		
+
 		<repository>
 		    <id>nexus</id>
-		    <url>http://172.0.1.18:8081/repository/notes-relese/</url>
+		    <url>http://15.206.116.124:8081/repository/notes-relese/</url>
 		</repository>
   	</distributionManagement>
 </project>
